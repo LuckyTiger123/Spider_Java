@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Verifier:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a12d6c8-603e-48d7-87e9-3b70acc0b9f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VTKyAaez47PoQsooSgQKzFdXOA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="verifier" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Homework_4" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\74783\eclipse-workspace\Verifier" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Verifier" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Verifier" />
+      <module name="Verifier" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Verifier" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a12d6c8-603e-48d7-87e9-3b70acc0b9f1" name="Default Changelist" comment="" />
+      <created>1577271896592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577271896592</updated>
+      <workItem from="1577271899366" duration="11874000" />
+      <workItem from="1577285171310" duration="319000" />
+      <workItem from="1577432935757" duration="707000" />
+      <workItem from="1577496209661" duration="103000" />
+      <workItem from="1577501126565" duration="9408000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="974" y="361" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577282974291">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="974" y="361" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1577282974291" />
+    <state x="983" y="386" key="FileChooserDialogImpl" timestamp="1577501152342">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="983" y="386" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1577501152342" />
+    <state width="1251" height="135" key="GridCell.Tab.0.bottom" timestamp="1577519770574">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1251" height="135" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1577519770574" />
+    <state width="1251" height="135" key="GridCell.Tab.0.center" timestamp="1577519770573">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1251" height="135" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1577519770573" />
+    <state width="1251" height="135" key="GridCell.Tab.0.left" timestamp="1577519770573">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1251" height="135" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1577519770573" />
+    <state width="1251" height="135" key="GridCell.Tab.0.right" timestamp="1577519770574">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1251" height="135" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1577519770574" />
+    <state x="724" y="152" key="SettingsEditor" timestamp="1577283098334">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="724" y="152" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1577283098334" />
+    <state x="923" y="401" key="com.intellij.ide.util.TipDialog" timestamp="1577496211522">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="923" y="401" key="com.intellij.ide.util.TipDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1577496211522" />
+    <state x="906" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1577281684478">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="906" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1577281684478" />
+  </component>
+</project>
